@@ -1,5 +1,4 @@
 # **Initial setting**
-========================
 ```
 $ git clone https://github.com/RMarukan/manekan.git
 $ cd manekanSite
